@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Yalyn.github.io
+title: Yalyn
+tagline: Blog for anything that is GreySky
+description: Updates for GreySky webcomics and other things.
+paginate: 5
