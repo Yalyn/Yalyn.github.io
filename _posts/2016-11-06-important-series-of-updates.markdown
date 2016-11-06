@@ -8,9 +8,9 @@ So at first I wanted to make an hour long video of me talking while having PSO a
 So instead I'll just write them down here in a short version instead.
 
 #  The web side
-*You might noticed how minimal/barebones the main site is and it is intentional. The reason why, is that if my website is not mobile friendly for Google, my site is most likely not to appear if anyone searches my site from their portable device (if they are searching on Google of course.)
-*Because of that I had to find something to get out of Wordpress because the navigation buttons are too small and other things that I also do not like about Wordpress. So I found a quick solution called Grawlix and after wasting 30-40 hours I could not get it to work. I did get help from both the creators of the CMS and the host services. No luck. So I end up going back to the minimal/barebones Poor Man's Comic Publisher which is created by Triskaideka.
-*While trying to get into Grawlix I also switch hosts in hopes of getting Grawlix to work. I ended up switching from A Small Orange to HostGator. Might as well have unlimited bandwidth (unmetered.)
+* You might noticed how minimal/barebones the main site is and it is intentional. The reason why, is that if my website is not mobile friendly for Google, my site is most likely not to appear if anyone searches my site from their portable device (if they are searching on Google of course.)
+* Because of that I had to find something to get out of Wordpress because the navigation buttons are too small and other things that I also do not like about Wordpress. So I found a quick solution called Grawlix and after wasting 30-40 hours I could not get it to work. I did get help from both the creators of the CMS and the host services. No luck. So I end up going back to the minimal/barebones Poor Man's Comic Publisher which is created by Triskaideka.
+* While trying to get into Grawlix I also switch hosts in hopes of getting Grawlix to work. I ended up switching from A Small Orange to HostGator. Might as well have unlimited bandwidth (unmetered.)
 
 #  The Grey universe
 * I am trying to make more evil characters for the GreySky series. So far I have a couple in concept.
