@@ -10,7 +10,7 @@ While many things are being pushed back (because of real-life stuff) I thought I
 
 For the first rule, while it can be enjoyable to feature something that your group of friends found on the internet, you have to step back and think. Internet memes can weaken your work if most of your audience are not familiar with most or any sort of internet meme they come across.
 
-Back in the old days I've created old PSO (Phantasy Star Online) fan comics (done in strip style) and they are designed for only the most hardcore PSO players to understand the joke. Even experinced players will have a long time understanding what is going on. Some strips where even more specific to the point that only my friend and I got the laugh out of it. To the audience, it's a mystery.
+Back in the old days I've created old PSO (Phantasy Star Online) fan comics (done in strip style) and they are designed for only the most hardcore PSO players to understand the joke. Even experienced players will have a long time understanding what is going on. Some strips where even more specific to the point that only my friend and I got the laugh out of it. To the audience, it's a mystery.
 
 It's not fun for a confused reader to read something they don't get only then to research on several websites just to understand the joke.
 
